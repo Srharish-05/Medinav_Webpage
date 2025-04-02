@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('ambulance-background.jpg');
+    background-size: cover;
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #4caf50;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    color: black;
+}
+
+button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
